@@ -1,0 +1,2 @@
+direction = image_angle;
+

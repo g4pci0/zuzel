@@ -1,0 +1,6 @@
+GameMaker Studio 1 font texture has been backed up at C:\Users\Filip\Documents\GameMakerStudio2\zuzel\zuzel\conv\gmx\zuzel_605A3CA\fonts\font_bruh\font_bruh.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\Filip\Documents\GameMakerStudio2\zuzel\zuzel\conv\gmx\zuzel_605A3CA\fonts\font_moment\font_moment.gms1.png
+Game speed set to 60
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

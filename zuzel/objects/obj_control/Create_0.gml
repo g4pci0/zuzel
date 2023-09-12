@@ -1,0 +1,22 @@
+global.start = 0;
+time1 = 0;
+time2 = 0;
+time3 = 0;
+time4 = 0;
+times = 0;
+str = 0;
+str2 = 0;
+str3 = 0;
+str4 = 0;
+top = 0;
+act = 0;
+player1 = "Czerwony";
+player2 = "Zielony";
+player3 = "Zolty";
+player4 = "Niebieski";
+global.redlost = 0;
+global.greenlost = 0;
+global.yellowlost = 0;
+global.bluelost = 0;
+draw_set_font(font_bruh);
+
